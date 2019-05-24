@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 Mars is nice, but has some worn out lunar landings.
 The two moons may be a problem for wolfman.
 Mummy will like it nice and dry.
 i am making a change to this file and hope i can get it done faster.
+i am readding all lines here.
+=======
+Mars exploded. Mummy will like it nice and dry.
+>>>>>>> 5521a0edab180c1e457526e3aa85ff6babbdd1a1
